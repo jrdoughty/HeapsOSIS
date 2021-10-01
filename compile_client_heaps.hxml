@@ -1,0 +1,11 @@
+-lib heaps
+-lib hlsdl
+-lib podstream
+-lib osis
+-lib anette
+-main Client.hx
+-hl Source\client.hl
+-D client
+-D resourcesPath=Assets
+-cp Source
+-dce full

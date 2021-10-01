@@ -1,0 +1,10 @@
+-main ClientRaw.hx
+-hl Source/client_raw.hl
+
+-lib osis
+-lib podstream
+-lib anette
+-D client
+-D raw
+-cp Source
+-debug

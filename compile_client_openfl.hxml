@@ -1,0 +1,12 @@
+-main Client.hx
+-hl Source\client.hl
+
+-lib osis
+-lib podstream
+-lib openfl
+-lib lime
+-lib anette
+-D client
+-D raw
+-cp Source
+-debug

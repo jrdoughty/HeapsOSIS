@@ -1,0 +1,9 @@
+-main Server.hx
+-hl Source/server.hl
+
+-lib osis
+-lib podstream
+-lib anette
+-D server
+-cp Source
+-debug

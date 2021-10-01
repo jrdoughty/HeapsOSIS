@@ -1,0 +1,8 @@
+-main Server.hx
+-cpp "cpp_build"
+
+-lib osis
+-lib podstream
+-lib anette
+-D server
+-debug

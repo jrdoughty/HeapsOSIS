@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    
+    <app main="Client" path="Export" file="Client" />
+    <source path="Source" />
+    <haxelib name="openfl" />
+    <haxelib name="podstream" />
+    <haxelib name="anette" />
+    <haxelib name="osis" />
+    <haxedef name="client" />
+    <assets path="Assets" rename="assets" />
+</project>
